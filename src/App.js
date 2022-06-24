@@ -1,11 +1,10 @@
 import './App.css';
-import News from './components/News';
+import Coins from './components/Coins';
 
 function App() {
     return (
     <>
-      {/* <Coins /> */}
-      <News />
+      <Coins />
     </>
   );
 }
